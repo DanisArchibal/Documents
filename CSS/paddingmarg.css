@@ -1,0 +1,38 @@
+.box {
+
+width: 50px;
+height: 50px;
+background: #ff1493;
+margin-top: 50px;
+margin-bottom: 30px;
+margin-left: 10px;
+margin-right: 5px;
+
+padding: 50px;
+
+}
+
+.box-2 {
+
+    width: 50px;
+    height: 50px;
+    background: #9932cc;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 5px;
+    
+    padding: 50px;
+}
+
+    /* ..... tanto para margin como para padding papodemos utilizar
+    un atajo llamado reloj de derecha a izquierda colocamos los valores 
+    margin: 50px altura  10 derecha 20 abajo o box  e 10 izquierda, 
+    si los valores de left e right son iguales podemos colocar solo tres 
+    numeros expresados en pixeles y css tomara el valor del medio como
+    medida para ambaos lados.
+    
+    /*si colocamos solo dos valores el primero es para arriba y abajo
+    y el segundo valor lo aplicara a left y right.
+    
+    
